@@ -76,5 +76,6 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+
 JK flipflop using verilog and validating their functionality using their functional tables has been implemented successfully
 
